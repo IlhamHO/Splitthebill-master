@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Split the bill</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_btn_ef_show">SHOW ME THE MONEY!</string>
+    <string name="text_tv_ef_total">Total amount</string>
+    <string name="text_tv_ef_amount">Amount to tip</string>
+    <string name="text_tv_ef_size">Size of party</string>
+    <string name="text_tv_about"> Split The Bill let you divide up the cost of things like group dinners and group trips so that everyone can pay their fair share.</string>
+    <string name="text_lbl_tf_about">Wat is Split The Bill ?</string>
+    <string name="txt_mi_settings">Settings</string>
+
+    <string-array name="payment">
+        <item>Cash</item>
+        <item>Visa</item>
+        <item>PayPal</item>
+        <item>mastercard</item>
+        <item>maestro</item>
+        <item>American Express</item>
+    </string-array>
+</resources>

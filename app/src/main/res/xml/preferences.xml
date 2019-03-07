@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="1"
+        android:entries="@array/payment"
+        android:entryValues="@array/payment"
+        android:key="list_preference_1"
+        android:title="Favourite payment method" />
+    <EditTextPreference
+        android:id="@+id/etp_settings"
+        android:defaultValue="1"
+        android:key="edit_text_preference_1"
+        android:selectAllOnFocus="true"
+        android:singleLine="false"
+        android:title="Tip" />
+</PreferenceScreen>
